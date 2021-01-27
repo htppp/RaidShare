@@ -11,7 +11,7 @@ issue (いしゅー) というところでします。
 PCの画面だとここです。  
 ![image](https://user-images.githubusercontent.com/39856549/106034637-80063f80-6116-11eb-9bef-f6feb3478479.png)  
 スマホの画面だとここです
-![InkedIMG_0668_LI](https://user-images.githubusercontent.com/39856549/106035156-1d617380-6117-11eb-9cb4-320fbdb45c0a.jpg)
+![InkedIMG_0668_LI](https://user-images.githubusercontent.com/39856549/106035329-57327a00-6117-11eb-9756-34afb8d5bf1d.jpg)
 
 
 
