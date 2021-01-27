@@ -5,20 +5,17 @@
 
 ## 使い方
 
-チャットの方法と、何かしらの情報を公開する場所(wiki)について説明します。
+チャットの方法と、何かしらの情報を公開する場所(wiki)について説明します。  
+discussionとwikiを使います。  
+![image](https://user-images.githubusercontent.com/39856549/106039534-93b4a480-611c-11eb-84af-45be8c9e6eae.png)
+スマホの画面でwikiが表示されてないときはdiscussionの列を横スクロールした左にあります。  
 
 1. チャット
 
-issue (いしゅー) というところでします。
+discussionというところでします。
+最初の画像のdiscussionを開くとこのような画面になります。  
 
-スマホの画面だとここです。  
-![InkedIMG_0668_LI](https://user-images.githubusercontent.com/39856549/106035329-57327a00-6117-11eb-9756-34afb8d5bf1d.jpg)  
-
-PCの画面だとここです。  
-![image](https://user-images.githubusercontent.com/39856549/106035942-0707e780-6118-11eb-82b3-535e079e48c1.png)  
-
-issueを開くとこのような画面になります。  
-![image](https://user-images.githubusercontent.com/39856549/106036192-551ceb00-6118-11eb-9859-ab8e706112c2.png)  
+![image](https://user-images.githubusercontent.com/39856549/106039160-2274f180-611c-11eb-9c6a-d617d9150a4c.png)
 
 チャット内容に合わせて選んでください。  
 無ければ右上の緑ボタンからNew issueを選んで新しいスレッドを作りましょう。  
