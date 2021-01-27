@@ -7,13 +7,12 @@
 
 チャットの方法と、何かしらの情報を公開する場所(wiki)について説明します。  
 discussionとwikiを使います。  
-![image](https://user-images.githubusercontent.com/39856549/106039534-93b4a480-611c-11eb-84af-45be8c9e6eae.png)
-スマホの画面でwikiが表示されてないときはdiscussionの列を横スクロールした左にあります。  
 
 1. チャット
 
 discussionというところでします。
-最初の画像のdiscussionを開くとこのような画面になります。  
+![image](https://user-images.githubusercontent.com/39856549/106039534-93b4a480-611c-11eb-84af-45be8c9e6eae.png)
+discussionを開くとこのような画面になります。  
 
 ![image](https://user-images.githubusercontent.com/39856549/106040097-4dac1080-611d-11eb-9560-a8adef7846f7.png)
 既存のものに該当しない内容であればNew discussionのほうから新しく作れます_(:3 」∠ )_
@@ -23,9 +22,9 @@ discussionというところでします。
 
 2. wiki
 
-issueと同じ列にwikiというところがあります。  
-
-![image](https://user-images.githubusercontent.com/39856549/106034637-80063f80-6116-11eb-9bef-f6feb3478479.png)  
+wikiというところで情報公開をします。  
+![image](https://user-images.githubusercontent.com/39856549/106039534-93b4a480-611c-11eb-84af-45be8c9e6eae.png)
+スマホの画面でwikiが表示されてないときはdiscussionの列を横スクロールした左にあります。  
 
 開くとこのような画面になります。  
 ここに将来的にはページを追加していきます_(:3 」∠ )_  
@@ -37,7 +36,6 @@ issueと同じ列にwikiというところがあります。
 ## リンク集
 
 * https://github.com/htppp/RaidShare/wiki
-* 
 
 
 ## 設置目的
