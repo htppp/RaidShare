@@ -11,13 +11,17 @@
 
 issue (いしゅー) というところでします。
 
-スマホの画面だとここです
-![InkedIMG_0668_LI](https://user-images.githubusercontent.com/39856549/106035329-57327a00-6117-11eb-9756-34afb8d5bf1d.jpg)
+スマホの画面だとここです。  
+![InkedIMG_0668_LI](https://user-images.githubusercontent.com/39856549/106035329-57327a00-6117-11eb-9756-34afb8d5bf1d.jpg)  
 
 PCの画面だとここです。  
-![image](https://user-images.githubusercontent.com/39856549/106035942-0707e780-6118-11eb-82b3-535e079e48c1.png)
+![image](https://user-images.githubusercontent.com/39856549/106035942-0707e780-6118-11eb-82b3-535e079e48c1.png)  
 
+issueを開くとこのような画面になります。  
+![image](https://user-images.githubusercontent.com/39856549/106036192-551ceb00-6118-11eb-9859-ab8e706112c2.png)  
 
+チャット内容に合わせて選んでください。  
+無ければ右上の緑ボタンからNew issueを選んで新しいスレッドを作りましょう。  
 
 
 ## 設置目的
