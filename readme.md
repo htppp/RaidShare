@@ -15,7 +15,8 @@ discussionとwikiを使います。
 discussionというところでします。
 最初の画像のdiscussionを開くとこのような画面になります。  
 
-![image](https://user-images.githubusercontent.com/39856549/106039160-2274f180-611c-11eb-9c6a-d617d9150a4c.png)
+![image](https://user-images.githubusercontent.com/39856549/106040097-4dac1080-611d-11eb-9560-a8adef7846f7.png)
+既存のものに該当しない内容であればNew discussionのほうから新しく作れます_(:3 」∠ )_
 
 チャット内容に合わせて選んでください。  
 無ければ右上の緑ボタンからNew issueを選んで新しいスレッドを作りましょう。  
@@ -30,7 +31,13 @@ issueと同じ列にwikiというところがあります。
 ここに将来的にはページを追加していきます_(:3 」∠ )_  
 ![image](https://user-images.githubusercontent.com/39856549/106036773-163b6500-6119-11eb-8a48-e043362672fb.png)  
 
+スマートフォンアプリがあるのですが直接は開けないようです_(:3 」∠ )_  
+なので下にリンクを載せています。
 
+## リンク集
+
+* https://github.com/htppp/RaidShare/wiki
+* 
 
 
 ## 設置目的
