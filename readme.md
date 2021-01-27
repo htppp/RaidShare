@@ -5,13 +5,17 @@
 
 ## 使い方
 
+チャットの方法と、何かしらの情報を公開する場所について説明します。
+
 1. チャット
 
 issue (いしゅー) というところでします。
-PCの画面だとここです。  
-![image](https://user-images.githubusercontent.com/39856549/106034637-80063f80-6116-11eb-9bef-f6feb3478479.png)  
+
 スマホの画面だとここです
 ![InkedIMG_0668_LI](https://user-images.githubusercontent.com/39856549/106035329-57327a00-6117-11eb-9756-34afb8d5bf1d.jpg)
+
+PCの画面だとここです。  
+![image](https://user-images.githubusercontent.com/39856549/106035942-0707e780-6118-11eb-82b3-535e079e48c1.png)
 
 
 
